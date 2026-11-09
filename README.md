@@ -62,6 +62,7 @@ São resultados de reanálise em grade, sujeitos às limitações descritas no r
 
 ## Documentação e entrega
 
+- [Relatório completo em Word](output/docs/Relatorio_CitizenTech_GS.docx)
 - [Problema, decisões e critérios de aceitação](docs/projeto.md)
 - [Catálogo das fontes e dicionário de dados](docs/catalogo_dados.md)
 - [Arquitetura, qualidade, features e atualização](docs/arquitetura.md)
@@ -72,6 +73,8 @@ São resultados de reanálise em grade, sujeitos às limitações descritas no r
 - [Consultas e roteiro do dashboard Databricks](docs/dashboard_databricks.md)
 
 O relatório e a visualização são gerados automaticamente na pasta de saída. O repositório inclui o snapshot Bronze, as saídas locais de referência e os notebooks importáveis do Databricks, permitindo reproduzir a entrega sem depender de mudanças na API. Novas execuções criam outras pastas em `data/bronze` e `output`; revisar os arquivos antes de incluí-los em commits futuros.
+
+O relatório Word contém 15 páginas com os dez entregáveis do enunciado, integrantes, arquitetura, resultados, experimentação Spark, recomendações e links do GitHub e do dashboard. Foi renderizado e revisado visualmente. O script opcional `scripts/build_report.py` usa `python-docx` e Node com `sharp`; essas dependências servem apenas à geração do documento e não são necessárias ao pipeline principal.
 
 O pipeline principal e seus testes foram executados localmente. O usuário também executou o experimento no Databricks Free Edition, Spark 4.2.0: **3.288 linhas diárias e 108 mensais, sem diferenças contra a referência**, conforme as saídas fornecidas e registradas em `docs/evidencias/databricks_execucao.json`. O tempo medido da chamada do experimento foi 11,014 segundos, sem alegação de ganho de desempenho. As três tabelas Silver/Gold foram publicadas no schema `workspace.citizentech`. O dashboard foi montado pelo usuário e revisado a partir das capturas enviadas: gráfico mensal, barras de dias intensos, tabela municipal e contexto dos dados. O link da versão publicada, fornecido pelo usuário, está em `docs/dashboard_databricks.md`; o acesso por terceiros não foi validado pelo agente.
 
