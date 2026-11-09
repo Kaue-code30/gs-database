@@ -1,0 +1,13 @@
+{
+  "start_date": "2023-01-01",
+  "end_date": "2025-12-31",
+  "timezone": "America/Sao_Paulo",
+  "model": "era5",
+  "heavy_daily_mm": 50,
+  "accumulated_3d_mm": 100,
+  "municipalities": [
+    {"id": 3550308, "label": "São Paulo", "latitude": -23.5505, "longitude": -46.6333},
+    {"id": 3548500, "label": "Santos", "latitude": -23.9608, "longitude": -46.3336},
+    {"id": 3550001, "label": "São Luiz do Paraitinga", "latitude": -23.2222, "longitude": -45.3100}
+  ]
+}

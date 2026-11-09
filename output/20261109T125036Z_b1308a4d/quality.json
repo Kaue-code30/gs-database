@@ -1,0 +1,8 @@
+{
+  "rows": 3288,
+  "unique_keys": 3288,
+  "missing_precipitation": 0,
+  "incomplete_months": 0,
+  "null_3d_windows": 6,
+  "bronze_manifest": "C:\\Users\\KaueLima\\source\\repos\\gs-database\\data\\bronze\\20261109T124404Z_377aa3e5\\manifest.json"
+}

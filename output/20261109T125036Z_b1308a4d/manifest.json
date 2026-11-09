@@ -1,0 +1,87 @@
+{
+  "created_at_utc": "2026-11-09T12:44:04.202493+00:00",
+  "config": {
+    "start_date": "2023-01-01",
+    "end_date": "2025-12-31",
+    "timezone": "America/Sao_Paulo",
+    "model": "era5",
+    "heavy_daily_mm": 50,
+    "accumulated_3d_mm": 100,
+    "municipalities": [
+      {
+        "id": 3550308,
+        "label": "São Paulo",
+        "latitude": -23.5505,
+        "longitude": -46.6333
+      },
+      {
+        "id": 3548500,
+        "label": "Santos",
+        "latitude": -23.9608,
+        "longitude": -46.3336
+      },
+      {
+        "id": 3550001,
+        "label": "São Luiz do Paraitinga",
+        "latitude": -23.2222,
+        "longitude": -45.31
+      }
+    ]
+  },
+  "sources": [
+    {
+      "municipality_id": 3550308,
+      "source": "ibge",
+      "url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios/3550308",
+      "file": "3550308_ibge.json",
+      "retrieved_at_utc": "2026-11-09T12:44:04.348214+00:00",
+      "body_sha256": "9de310fa1d3143b40383b915c4842bb4d6175e9ac225db3046872bc5e59b5eee",
+      "json_sha256": "5712c4476615339c99e18bd60f83858f8ae0a644e86036dc2824497ccb8e1664"
+    },
+    {
+      "municipality_id": 3550308,
+      "source": "weather",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-23.5505&longitude=-46.6333&start_date=2023-01-01&end_date=2025-12-31&daily=precipitation_sum&timezone=America%2FSao_Paulo&models=era5",
+      "file": "3550308_weather.json",
+      "retrieved_at_utc": "2026-11-09T12:44:05.810435+00:00",
+      "body_sha256": "19a3a315758f7990d6d75114e1c4edd91f800a6d8a3b8a9279e8fa9a0792595b",
+      "json_sha256": "6704f2f2a4f39bbf06df502690944c486e5738e560a9abb2d002aa88ef645c3a"
+    },
+    {
+      "municipality_id": 3548500,
+      "source": "ibge",
+      "url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios/3548500",
+      "file": "3548500_ibge.json",
+      "retrieved_at_utc": "2026-11-09T12:44:05.925800+00:00",
+      "body_sha256": "c5321115a3426d4d84357233f58ff7d2ce4c3ab757bdcba902de43fa30d09cf1",
+      "json_sha256": "161ca07a371070198f491a2c6a91732cb22e3e2bc1e87e7c60e692564c8dd9cd"
+    },
+    {
+      "municipality_id": 3548500,
+      "source": "weather",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-23.9608&longitude=-46.3336&start_date=2023-01-01&end_date=2025-12-31&daily=precipitation_sum&timezone=America%2FSao_Paulo&models=era5",
+      "file": "3548500_weather.json",
+      "retrieved_at_utc": "2026-11-09T12:44:07.150833+00:00",
+      "body_sha256": "586fd0e54c2f6ba970ca649114b91dcd21091e685d450130eea70bd3a89428d5",
+      "json_sha256": "ce3f3f348fd1df7f952a7ac2a93c072c41d31f01abbf189f250f9c3615792a4d"
+    },
+    {
+      "municipality_id": 3550001,
+      "source": "ibge",
+      "url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios/3550001",
+      "file": "3550001_ibge.json",
+      "retrieved_at_utc": "2026-11-09T12:44:07.255812+00:00",
+      "body_sha256": "14c06088398603993918fb83f9537c7665af6f6885161da5250a09091e47b684",
+      "json_sha256": "d74007a9ac3925834a194a0637dbc2b4ea0905534c34535452a631f1dd68b2bb"
+    },
+    {
+      "municipality_id": 3550001,
+      "source": "weather",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-23.2222&longitude=-45.31&start_date=2023-01-01&end_date=2025-12-31&daily=precipitation_sum&timezone=America%2FSao_Paulo&models=era5",
+      "file": "3550001_weather.json",
+      "retrieved_at_utc": "2026-11-09T12:44:08.457427+00:00",
+      "body_sha256": "3b8e97af2c547d5b246912ba46194bdb930e94c0bdc8ac2ae25786bdfc90fb57",
+      "json_sha256": "5b01b961bb50cac0e89ec8b1ec04981a81df7a83cb24770dcfa714fe25d3ecca"
+    }
+  ]
+}

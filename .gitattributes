@@ -1,0 +1,6 @@
+* text=auto eol=lf
+
+# Preservar bytes dos snapshots e artefatos: o manifesto valida SHA-256.
+data/** -text -whitespace
+output/** -text -whitespace
+*.body binary

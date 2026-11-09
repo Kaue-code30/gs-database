@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="790" viewBox="0 0 1080 790">
+<rect width="100%" height="100%" fill="#f6f8fc"/>
+<g font-family="Arial, sans-serif" fill="#182c46">
+<text x="50" y="32" font-size="22">Precipitação mensal nos pontos selecionados (mm)</text>
+<text x="50" y="55" font-size="12">ERA5 / Open-Meteo + IBGE · meses incompletos em cinza · mesma escala em todos os painéis</text>
+<text x="50" y="85" font-size="17">Santos</text>
+<text x="10" y="110" font-size="11">578</text>
+<text x="25" y="245" font-size="11">0</text>
+<rect x="50.0" y="173.8" width="23.2" height="71.2" fill="#247d95"><title>2023-01: 293.9 mm; cobertura 100.0%</title></rect>
+<text x="50.0" y="265" font-size="10">2023-01</text>
+<rect x="77.2" y="105.0" width="23.2" height="140.0" fill="#247d95"><title>2023-02: 577.8 mm; cobertura 100.0%</title></rect>
+<rect x="104.4" y="190.2" width="23.2" height="54.8" fill="#247d95"><title>2023-03: 226.0 mm; cobertura 100.0%</title></rect>
+<rect x="131.7" y="191.0" width="23.2" height="54.0" fill="#247d95"><title>2023-04: 222.7 mm; cobertura 100.0%</title></rect>
+<text x="131.7" y="265" font-size="10">2023-04</text>
+<rect x="158.9" y="224.1" width="23.2" height="20.9" fill="#247d95"><title>2023-05: 86.3 mm; cobertura 100.0%</title></rect>
+<rect x="186.1" y="224.4" width="23.2" height="20.6" fill="#247d95"><title>2023-06: 84.9 mm; cobertura 100.0%</title></rect>
+<rect x="213.3" y="233.4" width="23.2" height="11.6" fill="#247d95"><title>2023-07: 47.8 mm; cobertura 100.0%</title></rect>
+<text x="213.3" y="265" font-size="10">2023-07</text>
+<rect x="240.6" y="224.0" width="23.2" height="21.0" fill="#247d95"><title>2023-08: 86.6 mm; cobertura 100.0%</title></rect>
+<rect x="267.8" y="230.4" width="23.2" height="14.6" fill="#247d95"><title>2023-09: 60.4 mm; cobertura 100.0%</title></rect>
+<rect x="295.0" y="192.7" width="23.2" height="52.3" fill="#247d95"><title>2023-10: 215.8 mm; cobertura 100.0%</title></rect>
+<text x="295.0" y="265" font-size="10">2023-10</text>
+<rect x="322.2" y="207.2" width="23.2" height="37.8" fill="#247d95"><title>2023-11: 155.8 mm; cobertura 100.0%</title></rect>
+<rect x="349.4" y="225.4" width="23.2" height="19.6" fill="#247d95"><title>2023-12: 80.8 mm; cobertura 100.0%</title></rect>
+<rect x="376.7" y="152.2" width="23.2" height="92.8" fill="#247d95"><title>2024-01: 383.0 mm; cobertura 100.0%</title></rect>
+<text x="376.7" y="265" font-size="10">2024-01</text>
+<rect x="403.9" y="191.1" width="23.2" height="53.9" fill="#247d95"><title>2024-02: 222.5 mm; cobertura 100.0%</title></rect>
+<rect x="431.1" y="153.7" width="23.2" height="91.3" fill="#247d95"><title>2024-03: 377.0 mm; cobertura 100.0%</title></rect>
+<rect x="458.3" y="216.2" width="23.2" height="28.8" fill="#247d95"><title>2024-04: 118.7 mm; cobertura 100.0%</title></rect>
+<text x="458.3" y="265" font-size="10">2024-04</text>
+<rect x="485.6" y="223.3" width="23.2" height="21.7" fill="#247d95"><title>2024-05: 89.7 mm; cobertura 100.0%</title></rect>
+<rect x="512.8" y="234.8" width="23.2" height="10.2" fill="#247d95"><title>2024-06: 42.3 mm; cobertura 100.0%</title></rect>
+<rect x="540.0" y="228.2" width="23.2" height="16.8" fill="#247d95"><title>2024-07: 69.5 mm; cobertura 100.0%</title></rect>
+<text x="540.0" y="265" font-size="10">2024-07</text>
+<rect x="567.2" y="227.9" width="23.2" height="17.1" fill="#247d95"><title>2024-08: 70.7 mm; cobertura 100.0%</title></rect>
+<rect x="594.4" y="224.0" width="23.2" height="21.0" fill="#247d95"><title>2024-09: 86.7 mm; cobertura 100.0%</title></rect>
+<rect x="621.7" y="215.2" width="23.2" height="29.8" fill="#247d95"><title>2024-10: 123.1 mm; cobertura 100.0%</title></rect>
+<text x="621.7" y="265" font-size="10">2024-10</text>
+<rect x="648.9" y="186.8" width="23.2" height="58.2" fill="#247d95"><title>2024-11: 240.1 mm; cobertura 100.0%</title></rect>
+<rect x="676.1" y="132.0" width="23.2" height="113.0" fill="#247d95"><title>2024-12: 466.2 mm; cobertura 100.0%</title></rect>
+<rect x="703.3" y="178.5" width="23.2" height="66.5" fill="#247d95"><title>2025-01: 274.4 mm; cobertura 100.0%</title></rect>
+<text x="703.3" y="265" font-size="10">2025-01</text>
+<rect x="730.6" y="174.7" width="23.2" height="70.3" fill="#247d95"><title>2025-02: 290.1 mm; cobertura 100.0%</title></rect>
+<rect x="757.8" y="214.4" width="23.2" height="30.6" fill="#247d95"><title>2025-03: 126.1 mm; cobertura 100.0%</title></rect>
+<rect x="785.0" y="182.1" width="23.2" height="62.9" fill="#247d95"><title>2025-04: 259.6 mm; cobertura 100.0%</title></rect>
+<text x="785.0" y="265" font-size="10">2025-04</text>
+<rect x="812.2" y="231.7" width="23.2" height="13.3" fill="#247d95"><title>2025-05: 55.0 mm; cobertura 100.0%</title></rect>
+<rect x="839.4" y="222.8" width="23.2" height="22.2" fill="#247d95"><title>2025-06: 91.6 mm; cobertura 100.0%</title></rect>
+<rect x="866.7" y="235.7" width="23.2" height="9.3" fill="#247d95"><title>2025-07: 38.4 mm; cobertura 100.0%</title></rect>
+<text x="866.7" y="265" font-size="10">2025-07</text>
+<rect x="893.9" y="218.4" width="23.2" height="26.6" fill="#247d95"><title>2025-08: 109.9 mm; cobertura 100.0%</title></rect>
+<rect x="921.1" y="231.7" width="23.2" height="13.3" fill="#247d95"><title>2025-09: 55.0 mm; cobertura 100.0%</title></rect>
+<rect x="948.3" y="211.6" width="23.2" height="33.4" fill="#247d95"><title>2025-10: 137.9 mm; cobertura 100.0%</title></rect>
+<text x="948.3" y="265" font-size="10">2025-10</text>
+<rect x="975.6" y="215.6" width="23.2" height="29.4" fill="#247d95"><title>2025-11: 121.2 mm; cobertura 100.0%</title></rect>
+<rect x="1002.8" y="210.1" width="23.2" height="34.9" fill="#247d95"><title>2025-12: 144.1 mm; cobertura 100.0%</title></rect>
+<line x1="50" y1="245" x2="1035" y2="245" stroke="#9da7b5"/>
+<text x="50" y="315" font-size="17">São Luiz do Paraitinga</text>
+<text x="10" y="340" font-size="11">578</text>
+<text x="25" y="475" font-size="11">0</text>
+<rect x="50.0" y="414.8" width="23.2" height="60.2" fill="#247d95"><title>2023-01: 248.3 mm; cobertura 100.0%</title></rect>
+<text x="50.0" y="495" font-size="10">2023-01</text>
+<rect x="77.2" y="421.5" width="23.2" height="53.5" fill="#247d95"><title>2023-02: 220.9 mm; cobertura 100.0%</title></rect>
+<rect x="104.4" y="452.0" width="23.2" height="23.0" fill="#247d95"><title>2023-03: 94.8 mm; cobertura 100.0%</title></rect>
+<rect x="131.7" y="449.7" width="23.2" height="25.3" fill="#247d95"><title>2023-04: 104.3 mm; cobertura 100.0%</title></rect>
+<text x="131.7" y="495" font-size="10">2023-04</text>
+<rect x="158.9" y="457.4" width="23.2" height="17.6" fill="#247d95"><title>2023-05: 72.8 mm; cobertura 100.0%</title></rect>
+<rect x="186.1" y="470.0" width="23.2" height="5.0" fill="#247d95"><title>2023-06: 20.8 mm; cobertura 100.0%</title></rect>
+<rect x="213.3" y="468.2" width="23.2" height="6.8" fill="#247d95"><title>2023-07: 28.0 mm; cobertura 100.0%</title></rect>
+<text x="213.3" y="495" font-size="10">2023-07</text>
+<rect x="240.6" y="455.5" width="23.2" height="19.5" fill="#247d95"><title>2023-08: 80.5 mm; cobertura 100.0%</title></rect>
+<rect x="267.8" y="463.9" width="23.2" height="11.1" fill="#247d95"><title>2023-09: 45.8 mm; cobertura 100.0%</title></rect>
+<rect x="295.0" y="436.4" width="23.2" height="38.6" fill="#247d95"><title>2023-10: 159.4 mm; cobertura 100.0%</title></rect>
+<text x="295.0" y="495" font-size="10">2023-10</text>
+<rect x="322.2" y="445.9" width="23.2" height="29.1" fill="#247d95"><title>2023-11: 120.0 mm; cobertura 100.0%</title></rect>
+<rect x="349.4" y="454.2" width="23.2" height="20.8" fill="#247d95"><title>2023-12: 85.8 mm; cobertura 100.0%</title></rect>
+<rect x="376.7" y="419.3" width="23.2" height="55.7" fill="#247d95"><title>2024-01: 229.8 mm; cobertura 100.0%</title></rect>
+<text x="376.7" y="495" font-size="10">2024-01</text>
+<rect x="403.9" y="434.1" width="23.2" height="40.9" fill="#247d95"><title>2024-02: 168.7 mm; cobertura 100.0%</title></rect>
+<rect x="431.1" y="419.8" width="23.2" height="55.2" fill="#247d95"><title>2024-03: 228.0 mm; cobertura 100.0%</title></rect>
+<rect x="458.3" y="469.2" width="23.2" height="5.8" fill="#247d95"><title>2024-04: 23.9 mm; cobertura 100.0%</title></rect>
+<text x="458.3" y="495" font-size="10">2024-04</text>
+<rect x="485.6" y="462.2" width="23.2" height="12.8" fill="#247d95"><title>2024-05: 52.7 mm; cobertura 100.0%</title></rect>
+<rect x="512.8" y="469.7" width="23.2" height="5.3" fill="#247d95"><title>2024-06: 21.9 mm; cobertura 100.0%</title></rect>
+<rect x="540.0" y="469.1" width="23.2" height="5.9" fill="#247d95"><title>2024-07: 24.3 mm; cobertura 100.0%</title></rect>
+<text x="540.0" y="495" font-size="10">2024-07</text>
+<rect x="567.2" y="460.3" width="23.2" height="14.7" fill="#247d95"><title>2024-08: 60.5 mm; cobertura 100.0%</title></rect>
+<rect x="594.4" y="468.8" width="23.2" height="6.2" fill="#247d95"><title>2024-09: 25.7 mm; cobertura 100.0%</title></rect>
+<rect x="621.7" y="447.0" width="23.2" height="28.0" fill="#247d95"><title>2024-10: 115.5 mm; cobertura 100.0%</title></rect>
+<text x="621.7" y="495" font-size="10">2024-10</text>
+<rect x="648.9" y="440.4" width="23.2" height="34.6" fill="#247d95"><title>2024-11: 142.8 mm; cobertura 100.0%</title></rect>
+<rect x="676.1" y="400.2" width="23.2" height="74.8" fill="#247d95"><title>2024-12: 308.6 mm; cobertura 100.0%</title></rect>
+<rect x="703.3" y="415.6" width="23.2" height="59.4" fill="#247d95"><title>2025-01: 245.2 mm; cobertura 100.0%</title></rect>
+<text x="703.3" y="495" font-size="10">2025-01</text>
+<rect x="730.6" y="452.5" width="23.2" height="22.5" fill="#247d95"><title>2025-02: 92.7 mm; cobertura 100.0%</title></rect>
+<rect x="757.8" y="448.8" width="23.2" height="26.2" fill="#247d95"><title>2025-03: 108.0 mm; cobertura 100.0%</title></rect>
+<rect x="785.0" y="433.5" width="23.2" height="41.5" fill="#247d95"><title>2025-04: 171.4 mm; cobertura 100.0%</title></rect>
+<text x="785.0" y="495" font-size="10">2025-04</text>
+<rect x="812.2" y="467.5" width="23.2" height="7.5" fill="#247d95"><title>2025-05: 30.9 mm; cobertura 100.0%</title></rect>
+<rect x="839.4" y="465.5" width="23.2" height="9.5" fill="#247d95"><title>2025-06: 39.4 mm; cobertura 100.0%</title></rect>
+<rect x="866.7" y="467.4" width="23.2" height="7.6" fill="#247d95"><title>2025-07: 31.3 mm; cobertura 100.0%</title></rect>
+<text x="866.7" y="495" font-size="10">2025-07</text>
+<rect x="893.9" y="472.2" width="23.2" height="2.8" fill="#247d95"><title>2025-08: 11.4 mm; cobertura 100.0%</title></rect>
+<rect x="921.1" y="467.5" width="23.2" height="7.5" fill="#247d95"><title>2025-09: 31.1 mm; cobertura 100.0%</title></rect>
+<rect x="948.3" y="446.6" width="23.2" height="28.4" fill="#247d95"><title>2025-10: 117.2 mm; cobertura 100.0%</title></rect>
+<text x="948.3" y="495" font-size="10">2025-10</text>
+<rect x="975.6" y="452.0" width="23.2" height="23.0" fill="#247d95"><title>2025-11: 95.0 mm; cobertura 100.0%</title></rect>
+<rect x="1002.8" y="440.2" width="23.2" height="34.8" fill="#247d95"><title>2025-12: 143.8 mm; cobertura 100.0%</title></rect>
+<line x1="50" y1="475" x2="1035" y2="475" stroke="#9da7b5"/>
+<text x="50" y="545" font-size="17">São Paulo</text>
+<text x="10" y="570" font-size="11">578</text>
+<text x="25" y="705" font-size="11">0</text>
+<rect x="50.0" y="656.0" width="23.2" height="49.0" fill="#247d95"><title>2023-01: 202.3 mm; cobertura 100.0%</title></rect>
+<text x="50.0" y="725" font-size="10">2023-01</text>
+<rect x="77.2" y="637.5" width="23.2" height="67.5" fill="#247d95"><title>2023-02: 278.4 mm; cobertura 100.0%</title></rect>
+<rect x="104.4" y="673.3" width="23.2" height="31.7" fill="#247d95"><title>2023-03: 130.7 mm; cobertura 100.0%</title></rect>
+<rect x="131.7" y="685.8" width="23.2" height="19.2" fill="#247d95"><title>2023-04: 79.3 mm; cobertura 100.0%</title></rect>
+<text x="131.7" y="725" font-size="10">2023-04</text>
+<rect x="158.9" y="697.1" width="23.2" height="7.9" fill="#247d95"><title>2023-05: 32.8 mm; cobertura 100.0%</title></rect>
+<rect x="186.1" y="696.2" width="23.2" height="8.8" fill="#247d95"><title>2023-06: 36.2 mm; cobertura 100.0%</title></rect>
+<rect x="213.3" y="700.2" width="23.2" height="4.8" fill="#247d95"><title>2023-07: 19.9 mm; cobertura 100.0%</title></rect>
+<text x="213.3" y="725" font-size="10">2023-07</text>
+<rect x="240.6" y="694.7" width="23.2" height="10.3" fill="#247d95"><title>2023-08: 42.5 mm; cobertura 100.0%</title></rect>
+<rect x="267.8" y="692.5" width="23.2" height="12.5" fill="#247d95"><title>2023-09: 51.5 mm; cobertura 100.0%</title></rect>
+<rect x="295.0" y="659.5" width="23.2" height="45.5" fill="#247d95"><title>2023-10: 187.8 mm; cobertura 100.0%</title></rect>
+<text x="295.0" y="725" font-size="10">2023-10</text>
+<rect x="322.2" y="678.2" width="23.2" height="26.8" fill="#247d95"><title>2023-11: 110.5 mm; cobertura 100.0%</title></rect>
+<rect x="349.4" y="691.8" width="23.2" height="13.2" fill="#247d95"><title>2023-12: 54.4 mm; cobertura 100.0%</title></rect>
+<rect x="376.7" y="660.5" width="23.2" height="44.5" fill="#247d95"><title>2024-01: 183.8 mm; cobertura 100.0%</title></rect>
+<text x="376.7" y="725" font-size="10">2024-01</text>
+<rect x="403.9" y="667.4" width="23.2" height="37.6" fill="#247d95"><title>2024-02: 155.2 mm; cobertura 100.0%</title></rect>
+<rect x="431.1" y="661.9" width="23.2" height="43.1" fill="#247d95"><title>2024-03: 178.0 mm; cobertura 100.0%</title></rect>
+<rect x="458.3" y="693.8" width="23.2" height="11.2" fill="#247d95"><title>2024-04: 46.2 mm; cobertura 100.0%</title></rect>
+<text x="458.3" y="725" font-size="10">2024-04</text>
+<rect x="485.6" y="693.8" width="23.2" height="11.2" fill="#247d95"><title>2024-05: 46.4 mm; cobertura 100.0%</title></rect>
+<rect x="512.8" y="704.3" width="23.2" height="0.7" fill="#247d95"><title>2024-06: 2.8 mm; cobertura 100.0%</title></rect>
+<rect x="540.0" y="698.1" width="23.2" height="6.9" fill="#247d95"><title>2024-07: 28.6 mm; cobertura 100.0%</title></rect>
+<text x="540.0" y="725" font-size="10">2024-07</text>
+<rect x="567.2" y="691.7" width="23.2" height="13.3" fill="#247d95"><title>2024-08: 54.9 mm; cobertura 100.0%</title></rect>
+<rect x="594.4" y="698.6" width="23.2" height="6.4" fill="#247d95"><title>2024-09: 26.4 mm; cobertura 100.0%</title></rect>
+<rect x="621.7" y="678.5" width="23.2" height="26.5" fill="#247d95"><title>2024-10: 109.4 mm; cobertura 100.0%</title></rect>
+<text x="621.7" y="725" font-size="10">2024-10</text>
+<rect x="648.9" y="665.3" width="23.2" height="39.7" fill="#247d95"><title>2024-11: 164.0 mm; cobertura 100.0%</title></rect>
+<rect x="676.1" y="633.8" width="23.2" height="71.2" fill="#247d95"><title>2024-12: 293.8 mm; cobertura 100.0%</title></rect>
+<rect x="703.3" y="650.3" width="23.2" height="54.7" fill="#247d95"><title>2025-01: 225.7 mm; cobertura 100.0%</title></rect>
+<text x="703.3" y="725" font-size="10">2025-01</text>
+<rect x="730.6" y="678.1" width="23.2" height="26.9" fill="#247d95"><title>2025-02: 111.2 mm; cobertura 100.0%</title></rect>
+<rect x="757.8" y="678.4" width="23.2" height="26.6" fill="#247d95"><title>2025-03: 109.8 mm; cobertura 100.0%</title></rect>
+<rect x="785.0" y="671.0" width="23.2" height="34.0" fill="#247d95"><title>2025-04: 140.5 mm; cobertura 100.0%</title></rect>
+<text x="785.0" y="725" font-size="10">2025-04</text>
+<rect x="812.2" y="698.2" width="23.2" height="6.8" fill="#247d95"><title>2025-05: 28.0 mm; cobertura 100.0%</title></rect>
+<rect x="839.4" y="692.4" width="23.2" height="12.6" fill="#247d95"><title>2025-06: 51.8 mm; cobertura 100.0%</title></rect>
+<rect x="866.7" y="702.9" width="23.2" height="2.1" fill="#247d95"><title>2025-07: 8.8 mm; cobertura 100.0%</title></rect>
+<text x="866.7" y="725" font-size="10">2025-07</text>
+<rect x="893.9" y="699.9" width="23.2" height="5.1" fill="#247d95"><title>2025-08: 21.2 mm; cobertura 100.0%</title></rect>
+<rect x="921.1" y="699.7" width="23.2" height="5.3" fill="#247d95"><title>2025-09: 22.0 mm; cobertura 100.0%</title></rect>
+<rect x="948.3" y="681.3" width="23.2" height="23.7" fill="#247d95"><title>2025-10: 97.7 mm; cobertura 100.0%</title></rect>
+<text x="948.3" y="725" font-size="10">2025-10</text>
+<rect x="975.6" y="685.8" width="23.2" height="19.2" fill="#247d95"><title>2025-11: 79.3 mm; cobertura 100.0%</title></rect>
+<rect x="1002.8" y="670.6" width="23.2" height="34.4" fill="#247d95"><title>2025-12: 142.0 mm; cobertura 100.0%</title></rect>
+<line x1="50" y1="705" x2="1035" y2="705" stroke="#9da7b5"/>
+</g></svg>

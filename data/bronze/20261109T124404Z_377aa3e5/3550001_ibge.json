@@ -1,0 +1,40 @@
+{
+  "id": 3550001,
+  "nome": "São Luiz do Paraitinga",
+  "microrregiao": {
+    "id": 35053,
+    "nome": "Paraibuna/Paraitinga",
+    "mesorregiao": {
+      "id": 3513,
+      "nome": "Vale do Paraíba Paulista",
+      "UF": {
+        "id": 35,
+        "sigla": "SP",
+        "nome": "São Paulo",
+        "regiao": {
+          "id": 3,
+          "sigla": "SE",
+          "nome": "Sudeste"
+        }
+      }
+    }
+  },
+  "regiao-imediata": {
+    "id": 350050,
+    "nome": "Taubaté - Pindamonhangaba",
+    "regiao-intermediaria": {
+      "id": 3511,
+      "nome": "São José dos Campos",
+      "UF": {
+        "id": 35,
+        "sigla": "SP",
+        "nome": "São Paulo",
+        "regiao": {
+          "id": 3,
+          "sigla": "SE",
+          "nome": "Sudeste"
+        }
+      }
+    }
+  }
+}

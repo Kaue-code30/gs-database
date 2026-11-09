@@ -1,0 +1,16 @@
+{
+  "evidence_source": "Saídas do notebook Databricks fornecidas pelo usuário nesta conversa; sem consulta independente ao workspace pelo agente.",
+  "run_id": "20261109T131706Z_f0529b79",
+  "spark_version": "4.2.0",
+  "elapsed_seconds": 11.014280289999988,
+  "tables": {
+    "silver_daily": "`workspace`.`citizentech`.`silver_daily_20261109t131706z_f0529b79`",
+    "gold_daily": "`workspace`.`citizentech`.`gold_daily_20261109t131706z_f0529b79`",
+    "gold_monthly": "`workspace`.`citizentech`.`gold_monthly_20261109t131706z_f0529b79`"
+  },
+  "parity": [
+    {"file": "daily.csv", "rows": 3288, "differences": 0},
+    {"file": "monthly.csv", "rows": 108, "differences": 0}
+  ],
+  "run_root": "/Volumes/workspace/citizentech/assets/runs/20261109T131706Z_f0529b79"
+}
